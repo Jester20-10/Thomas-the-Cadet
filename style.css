@@ -47,6 +47,9 @@ footer {
     background-color: #8fddf2;
     padding: 10px;
 }
+p {font-size: 20px;
+   
+  }
 
 footer p {
     background-color: white;
