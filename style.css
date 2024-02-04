@@ -47,9 +47,11 @@ footer {
     background-color: #8fddf2;
     padding: 10px;
 }
-p {font-size: 40px;
+p { font-size: 40px;
    
   }
+ p a{
+     text-decoration:none; 
 
 footer p {
     background-color: white;
