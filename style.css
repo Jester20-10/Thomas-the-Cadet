@@ -60,13 +60,13 @@ footer p {
      font-size: 20px;
 }
 nav a{
-    text-decoration: none;
+    text-decoration:none;
     color: white 
 } 
-nav{
-    background-color: darkgreen;
-     border: 1px solid wheat;
-    border-radius:5px  ;
-    margin: 20px;
-    padding: 10px;
+nav {
+    background-color:darkgreen;
+     border: 1 px solid wheat;
+    border-radius:5 px;
+    margin:20 px;
+    padding:10 px;
 }
